@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Projects I've done
 
-[Project 1 Title](/sample_page)
+[Nutrition and Unsupervised Learning](/sample_page)
 <img src="images/project1.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Visualizing Flags of the World](/pdf/sample_presentation.pdf)
 <img src="images/project2.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/workdayHr.png?raw=true"/>
+[Bike Share Data and Machine Learning](http://example.com/)
+<img src="images/project3.jpg?raw=true"/>
 
 ---
 
