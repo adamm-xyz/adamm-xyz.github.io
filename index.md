@@ -4,7 +4,7 @@
 
 ### Projects I've done
 
-[Nutrition and Unsupervised Learning](/sample_page)
+[Nutrition and Unsupervised Learning](https://nbviewer.jupyter.org/github/amontano495/McDonalds-Nutrition/blob/master/McDonaldsNutrtionFacts.ipynb)
 <img src="images/project1.jpg?raw=true"/>
 
 ---
