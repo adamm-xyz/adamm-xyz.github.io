@@ -8,24 +8,12 @@
 <img src="images/project1.jpg?raw=true"/>
 
 ---
-[Visualizing Flags of the World](/pdf/sample_presentation.pdf)
+[Visualizing Flags of the World](https://nbviewer.jupyter.org/github/amontano495/FlagData/blob/master/FlagViz.ipynb)
 <img src="images/project2.jpg?raw=true"/>
 
 ---
-[Bike Share Data and Machine Learning](http://example.com/)
+[Bike Share Data and Machine Learning](https://nbviewer.jupyter.org/github/amontano495/BikeData/tree/master/)
 <img src="images/project3.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](https://nbviewer.jupyter.org/github/amontano495/McDonalds-Nutrition/blob/master/McDonaldsNutrtionFacts.ipynb)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
