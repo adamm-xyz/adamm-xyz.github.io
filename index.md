@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 Title](https://nbviewer.jupyter.org/github/amontano495/McDonalds-Nutrition/blob/master/McDonaldsNutrtionFacts.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
