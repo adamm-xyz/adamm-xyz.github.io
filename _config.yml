@@ -3,9 +3,11 @@ title: Adam
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Software Engineer. Reno, Nevada.  
   <br><br>
-  Interested in deep learning, functional programming and data science. 
+  Interested in artificial intelligence, deep learning, data science, and functional programming. 
   <br><br>
   <a href="https://www.linkedin.com/in/adam-montano-74759117a/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="mailto: amontano495@gmail.com">Email Me</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
