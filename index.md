@@ -3,7 +3,10 @@
 ---
 
 ### Projects I've done
+[Chess in Python](https://github.com/amontano495/chessEngine)
+<img src="images/chess.gif?raw=true"/>
 
+---
 [CNN To Detect Pneumonia using Keras with Transfer Learning](https://nbviewer.jupyter.org/github/amontano495/Pneumonia_Detector/blob/master/PneumoniaClassifier.ipynb)
 <img src="images/project4.jpg?raw=true"/>
 
