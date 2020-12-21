@@ -3,6 +3,7 @@
 ---
 
 ### Projects I've done
+
 [Chess in Python](https://github.com/amontano495/chessEngine)
 <img src="images/chess.gif?raw=true"/>
 
