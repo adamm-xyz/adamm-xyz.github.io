@@ -5,7 +5,7 @@
 ### Projects I've done
 
 [Sudoku Solver in C++ with QT GUI(https://github.com/amontano495/SudokuSolverQt)
-<img src"=images/sudoku_solver_screenshot.png?raw=true"/>
+<img src="images/sudoku_solver_screenshot.png?raw=true"/>
 
 ---
 [Chess in Python with AI Opponent](https://github.com/amontano495/chessEngine)
