@@ -1,6 +1,13 @@
 ## Portfolio
 
 ---
+### Projects I've done
+
+[Reimplementing Linux Core Utils in Rust](https://github.com/adamm-xyz/lsrs)
+
+<img src="images/lsrs.gif?raw=true"/>
+
+---
 
 ### Projects I've done
 
